@@ -6,6 +6,10 @@
 >
 > 遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 
+## 前提
+
+下载后，先解压 `node_modules.zip`，然后删除 `.git`
+
 ## 安装Node.js
 
 官网下载：[Node.js](https://nodejs.org/en/)
